@@ -1,4 +1,4 @@
-Hi, I'm Kekai Apana!
+## Hi, I'm Kekai Apana!
 
 My current languages are Swift, C, and Python.
 
