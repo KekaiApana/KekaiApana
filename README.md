@@ -1,6 +1,6 @@
 # Hi, I'm Kekai Apana!
 
-My current languages are Swift, C, and Python.  
+My current languages are Swift, C, Bash, and Python.  
 Language(s) I am currently learning: React
 
 ## Released Products
