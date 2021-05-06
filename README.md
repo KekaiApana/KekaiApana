@@ -1,7 +1,7 @@
 # Hi, I'm Kekai Apana!
 
 Languages I am familiar with: *Swift, C, Bash, and Python.*  
-Language(s) I am currently learning: *React*
+Language(s) I am currently learning: *React, Javascript*
 
 ## Released Products
 
