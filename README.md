@@ -4,7 +4,7 @@ I am a high school student from Hawaiʻi interested in Computer Science, specifi
 *To learn more about me, see below!*  
 
 Languages I am familiar with: *Swift, C, Bash, and Python.*  
-Language(s) I am currently learning: *React, Javascript*
+Language(s) I am currently learning: *React, Javascript, Powershell*
 
 ## Released Products
 
