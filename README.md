@@ -9,3 +9,7 @@ Language(s) I am currently learning: *React, Javascript, Powershell*
 ## Released Products
 
 Apple App Store: [FirstPulse](https://sites.google.com/view/firstpulseapp/firstpulse)
+
+## Current Projects
+
+<Coming soon>
