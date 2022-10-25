@@ -29,9 +29,3 @@ Apple App Store: [FirstPulse](https://sites.google.com/view/firstpulseapp/firstp
 - CyberCamp
 - Lego Robotics (Elementary)
 - Math Matters (Elementary)
-
-## Technologies I am aquainted with:
-- Lego Mindstorms
-- Arduino
-- Xcode
-- VS Code
