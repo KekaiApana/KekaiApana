@@ -12,7 +12,11 @@ Apple App Store: [FirstPulse](https://sites.google.com/view/firstpulseapp/firstp
 
 ## Current Projects
 
-**(Coming soon)**
+**(Coming soon!)**
+
+## Research Publications
+
+**(Coming soon!)**
 
 ## STEM Programs I was/am currently involved in:
 
