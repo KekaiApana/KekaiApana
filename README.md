@@ -18,6 +18,15 @@ Apple App Store: [FirstPulse](https://sites.google.com/view/firstpulseapp/firstp
 
 **(Coming soon!)**
 
+## Courses:
+
+### Completed:
+- AP Computer Science Principles
+
+### In Progress:  
+- CS50x
+- CS50AI
+
 ## STEM Programs I was/am currently involved in:
 
 ### Current:
