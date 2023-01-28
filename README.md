@@ -31,7 +31,7 @@ Apple App Store: [FirstPulse](https://sites.google.com/view/firstpulseapp/firstp
 
 ### Current:
 - CyberPatriot (2017-Current)
-  - Focus in Ubuntu and Cisco Networking
+  - Focus in Linux and Cisco Networking
 
 ### Past:
 - InspiritAI (Summer 2021)
