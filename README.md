@@ -3,8 +3,8 @@
 I am a high school student from Hawaiʻi who is interested in Computer Science, specifically AI and Mobile App Development. So far, I have competed in CyberPatriot competitions, built my own app, written scripts for both Windows and Linux, and developed various other projects.  
 *To learn more about me, see below!*  
 
-Languages I am familiar with: *English, Swift, C, Bash, and Python*  
-Language(s) I am currently learning: *Hawaiian, React Native, Javascript, HTML, CSS, and Powershell*
+Languages I am familiar with: *English, Swift, C, Bash, CSS, Powershell, and Python*  
+Language(s) I am currently learning: *Hawaiian, React Native, Javascript, and HTML*
 
 ## Released Products
 
