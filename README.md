@@ -12,7 +12,7 @@ Apple App Store: [FirstPulse](https://sites.google.com/view/firstpulseapp/firstp
 
 ## Current Projects
 
-**(Coming soon!)**
+Seabury Hall Lunch Menu
 
 ## Research Publications
 
