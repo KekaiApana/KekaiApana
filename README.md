@@ -1,6 +1,6 @@
 # Hi, I'm Kekai Apana!
 
-I am a high school student from Hawaiʻi who is interested in Computer Science, specifically AI and Mobile App Development. So far, I have competed in CyberPatriot competitions, built my own app, written scripts for both Windows and Linux, and developed various other projects.  
+I am an incoming freshman at Stanford University from Hawaiʻi who is interested in Computer Science, specifically AI and Mobile App Development. So far, I have competed in CyberPatriot competitions, built my own app, written scripts for both Windows and Linux, and developed various other projects. Currently I work at Seabury Hall as Tech Support.  
 *To learn more about me, see below!*  
 
 Languages I am familiar with: *English, Hawaiian, Swift, C, Bash, CSS, Powershell, and Python*  
@@ -12,7 +12,7 @@ Apple App Store: [FirstPulse](https://sites.google.com/view/firstpulseapp/firstp
 
 ## Current Projects
 
-Seabury Hall Lunch Menu
+None currently!
 
 ## Courses:
 
@@ -24,11 +24,12 @@ Seabury Hall Lunch Menu
 
 ## STEM Programs I was/am currently involved in:
 
-### Current:
-- CyberPatriot (2017-Current)
-  - Focus in Linux and Cisco Networking
+### Current:  
+None currently!  
 
 ### Past:
+- CyberPatriot (2017-2024)
+  - Focus in Linux and Cisco Networking
 - InspiritAI (Summer 2021)
 - MathCounts (2017-2020)
   - Team won 2019-2020 regional competition
