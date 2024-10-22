@@ -20,12 +20,13 @@ None currently!
 - AP Computer Science Principles
 
 ### In Progress:  
-- CS50x
+- CS50x, CS 106A: Programming Methodologies
 
 ## STEM Programs I was/am currently involved in:
 
 ### Current:  
-None currently!  
+- CS+Social Good (2024-Current)
+- Stanford AI Alignment (2024-Current)  
 
 ### Past:
 - CyberPatriot (2017-2024)
