@@ -14,7 +14,7 @@ Apple App Store: [FirstPulse](https://sites.google.com/view/firstpulseapp/firstp
 
 None currently!
 
-## Courses:
+## Courses
 
 ### Completed:
 - AP Computer Science Principles
@@ -22,7 +22,7 @@ None currently!
 ### In Progress:  
 - CS50x, CS 106A: Programming Methodologies
 
-## STEM Programs I was/am currently involved in:
+## STEM Programs I was/am currently involved in
 
 ### Current:  
 - CS+Social Good (2024-Current)
