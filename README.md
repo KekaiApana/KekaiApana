@@ -4,7 +4,7 @@ I am an incoming freshman at Stanford University from Hawaiʻi who is interested
 *To learn more about me, see below!*  
 
 Languages I am familiar with: *English, Hawaiian, Swift, C, Bash, CSS, Powershell, and Python*  
-Language(s) I am currently learning: *React Native, Javascript, and HTML*
+Language(s) I am currently learning: *C++, React Native, Javascript, and HTML*
 
 ## Released Products
 
