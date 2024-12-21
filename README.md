@@ -26,6 +26,7 @@ None currently!
 
 ### Current:  
 - CS+Social Good (2024-Current)
+  - Subcommittee: Industry
 - Stanford AI Alignment (2024-Current)  
 
 ### Past:
