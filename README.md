@@ -1,6 +1,6 @@
 # Hi, I'm Kekai Apana!
 
-I am an incoming freshman at Stanford University from Hawaiʻi who is interested in Computer Science, specifically AI and Mobile App Development. So far, I have competed in CyberPatriot competitions, built my own app, written scripts for both Windows and Linux, and developed various other projects. Currently I work at Seabury Hall as Tech Support.  
+I am a freshman at Stanford University from Hawaiʻi who is interested in Computer Science, specifically AI and Mobile App Development. So far, I have competed in CyberPatriot competitions, built my own app, written scripts for both Windows and Linux, and developed various other projects.    
 *To learn more about me, see below!*  
 
 Languages I am familiar with: *English, Hawaiian, Swift, C, Bash, CSS, Powershell, and Python*  
