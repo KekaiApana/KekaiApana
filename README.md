@@ -17,10 +17,10 @@ None currently!
 ## Courses
 
 ### Completed:
-- AP Computer Science Principles
+- AP Computer Science Principles, CS 106A: Programming Methodologies
 
 ### In Progress:  
-- CS50x, CS 106A: Programming Methodologies
+- CS50x, CS 106B: Programming Abstractions
 
 ## STEM Programs I was/am currently involved in
 
