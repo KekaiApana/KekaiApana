@@ -17,10 +17,10 @@ None currently!
 ## Courses
 
 ### Completed:
-- AP Computer Science Principles, CS 106A: Programming Methodologies
+- AP Computer Science Principles, CS50x, CS 106A: Programming Methodologies
 
 ### In Progress:  
-- CS50x, CS 106B: Programming Abstractions
+- CS 106B: Programming Abstractions, DATASCI 112: Principles of Data Science
 
 ## STEM Programs I was/am currently involved in
 
