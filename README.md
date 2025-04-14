@@ -12,15 +12,15 @@ Apple App Store: [FirstPulse](https://sites.google.com/view/firstpulseapp/firstp
 
 ## Current Projects
 
-None currently!
+None currently! Cool ideas coming soon :)
 
 ## Courses
 
 ### Completed:
-- AP Computer Science Principles, CS50x, CS 106A: Programming Methodologies
+- AP Computer Science Principles, CS50x, CS 106A: Programming Methodologies, CS 106B: Programming Abstractions, DATASCI 112: Principles of Data Science
 
 ### In Progress:  
-- CS 106B: Programming Abstractions, DATASCI 112: Principles of Data Science
+- CS 107: Computer Organization and Systems
 
 ## STEM Programs I was/am currently involved in
 
