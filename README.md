@@ -4,7 +4,7 @@ I am a sophomore at Stanford University from Hawaiʻi who is interested in Compu
 *To learn more about me, see below!*  
 
 Languages I am familiar with: *English, Hawaiian, Swift, C, Bash, CSS, Powershell, Python, C++, and x86 Assembly*  
-Language(s) I am currently learning: *React Native, Javascript, HTML, and CSS*
+Language(s) I am currently learning: *React Native, Javascript, and HTML*
 
 ## Released Products
 
