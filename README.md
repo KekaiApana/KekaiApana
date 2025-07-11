@@ -1,10 +1,10 @@
 # Hi, I'm Kekai Apana!
 
-I am a freshman at Stanford University from Hawaiʻi who is interested in Computer Science, specifically AI and Mobile App Development. So far, I have competed in CyberPatriot competitions, built my own app, written scripts for both Windows and Linux, and developed various other projects.    
+I am a sophomore at Stanford University from Hawaiʻi who is interested in Computer Science, specifically AI and Mobile App Development. So far, I have competed in CyberPatriot competitions, built my own app, written scripts for both Windows and Linux, and developed various other projects.    
 *To learn more about me, see below!*  
 
-Languages I am familiar with: *English, Hawaiian, Swift, C, Bash, CSS, Powershell, and Python*  
-Language(s) I am currently learning: *C++, React Native, Javascript, and HTML*
+Languages I am familiar with: *English, Hawaiian, Swift, C, Bash, CSS, Powershell, Python, C++, and x86 Assembly*  
+Language(s) I am currently learning: *React Native, Javascript, HTML, and CSS*
 
 ## Released Products
 
@@ -17,10 +17,17 @@ None currently! Cool ideas coming soon :)
 ## Courses
 
 ### Completed:
-- AP Computer Science Principles, CS50x, CS 106A: Programming Methodologies, CS 106B: Programming Abstractions, DATASCI 112: Principles of Data Science
+- Prior to Stanford
+  - AP Computer Science Principles
+  - CS50x
+- At Stanford
+  - CS 106A: Programming Methodologies
+  - CS 106B: Programming Abstractions
+  - DATASCI 112: Principles of Data Science
+  - CS 107: Computer Organization and Systems
 
 ### In Progress:  
-- CS 107: Computer Organization and Systems
+- None Currently!
 
 ## STEM Programs I was/am currently involved in
 
