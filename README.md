@@ -1,6 +1,6 @@
 # Hi, I'm Kekai Apana!
 
-I am a sophomore at Stanford University from Hawaiʻi majoring in Computer Science with a focus in AI and an interest in Mobile App Development. So far, I have competed in CyberPatriot competitions, built my own app, written scripts for both Windows and Linux, and developed various other projects.    
+I am a sophomore at Stanford University from Hawaiʻi majoring in Computer Science with a focus in AI and an interest in Mobile App Development. So far, I have started my own web design company, built my own app, written a research paper on Facial Emotion Recognition, and developed various other projects.    
 *To learn more about me, see below!*  
 
 Languages I am familiar with: *English, Hawaiian, Swift, C, Bash, CSS, Powershell, Python, C++, and x86 Assembly*  
@@ -12,7 +12,7 @@ Apple App Store: [FirstPulse](https://sites.google.com/view/firstpulseapp/firstp
 
 ## Current Projects
 
-None currently! Cool ideas coming soon :)
+Wailuku Web: [Company Website](https://www.wailukuweb.com/)
 
 ## Courses
 
