@@ -27,7 +27,7 @@ Wailuku Web: [Company Website](https://www.wailukuweb.com/)
   - CS 107: Computer Organization and Systems
 
 ### In Progress:  
-- None Currently!
+- CS 103: Mathematical Foundations of Computing
 
 ## STEM Programs I was/am currently involved in
 
