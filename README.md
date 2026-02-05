@@ -12,7 +12,7 @@ Apple App Store: [FirstPulse](https://sites.google.com/view/firstpulseapp/firstp
 
 ## Current Projects
 
-Wailuku Web: [Company Website](https://www.wailukuweb.com/)
+Wailuku Web: [Company Website](https://www.wailukuweb.com/)  
 **More coming soon!**
 
 ## Courses
