@@ -41,7 +41,7 @@ Wailuku Web: [Company Website](https://www.wailukuweb.com/)
 
 ### Past:
 - CyberPatriot (2017-2024)
-  - Focus in Linux and Cisco Networking
+  - Focus in Linux (Ubuntu & Debian) and Cisco Networking
 - InspiritAI (Summer 2021)
 - MathCounts (2017-2020)
   - Team won 2019-2020 regional competition
