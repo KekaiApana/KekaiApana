@@ -18,15 +18,11 @@ Wailuku Web: [Company Website](https://www.wailukuweb.com/)
 ## Courses
 
 ### Completed:
-- Prior to Stanford
-  - AP Computer Science Principles
-  - CS50x
-- At Stanford
-  - CS 106A: Programming Methodologies
-  - CS 106B: Programming Abstractions
-  - DATASCI 112: Principles of Data Science
-  - CS 107: Computer Organization and Systems
-  - CS 103: Mathematical Foundations of Computing
+- CS 106A: Programming Methodologies
+- CS 106B: Programming Abstractions
+- DATASCI 112: Principles of Data Science
+- CS 107: Computer Organization and Systems
+- CS 103: Mathematical Foundations of Computing
 
 ### In Progress:  
 - CS 111: Operating Systems Principles
