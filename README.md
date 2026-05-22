@@ -1,6 +1,6 @@
 # Hi, I'm Kekai Apana!
 
-I am a sophomore at Stanford University from Hawaiʻi majoring in Computer Science with a focus in AI and an interest in Mobile App Development. So far, I have started my own web design company, built my own app, written a research paper on Facial Emotion Recognition, and developed various other projects.    
+I am a sophomore at Stanford University from Hawaiʻi, majoring in Computer Science with a focus in AI and minoring in Data Science. So far, I have started my own web design company, built my own app, written a research paper on Facial Emotion Recognition, and developed various other projects.    
 *To learn more about me, see below!*  
 
 Languages I am familiar with: *English, Hawaiian, Swift, C, Bash, CSS, Powershell, Python, C++, x86 Assembly, and HTML*  
@@ -23,13 +23,17 @@ Wailuku Web: [Company Website](https://www.wailukuweb.com/)
 - DATASCI 112: Principles of Data Science
 - CS 107: Computer Organization and Systems
 - CS 103: Mathematical Foundations of Computing
+- CS 111: Operating Systems Principles
 
 ### In Progress:  
-- CS 111: Operating Systems Principles
+- CS 109: Introduction to Probability for Computer Scientists
+- SYMSYS 1: Minds and Machines
 
 ## STEM Programs I was/am currently involved in
 
 ### Current:  
+- Do Good Now (2026-Current)
+  - Position: Co-Chair
 - CS+Social Good (2024-Current)
   - Subcommittee: Industry
 - Stanford Daily (2025-Current)
