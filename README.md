@@ -4,7 +4,7 @@ I am a sophomore at Stanford University from Hawaiʻi, majoring in Computer Scie
 *To learn more about me, see below!*  
 
 Languages I am familiar with: *English, Hawaiian, Swift, C, Bash, CSS, Powershell, Python, C++, x86 Assembly, and HTML*  
-Language(s) I am currently learning: *Javascript*
+Language(s) I am currently learning: *Javascript, Java*
 
 ## Released Products
 
@@ -24,10 +24,11 @@ Wailuku Web: [Company Website](https://www.wailukuweb.com/)
 - CS 107: Computer Organization and Systems
 - CS 103: Mathematical Foundations of Computing
 - CS 111: Operating Systems Principles
+- SYMSYS 1: Minds and Machines
+- CS 109: Introduction to Probability for Computer Scientists
 
 ### In Progress:  
-- CS 109: Introduction to Probability for Computer Scientists
-- SYMSYS 1: Minds and Machines
+- Will be updated Fall 2026
 
 ## STEM Programs I was/am currently involved in
 
